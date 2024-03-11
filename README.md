@@ -1,6 +1,6 @@
 # FEVM-FN60G-Hackintosh
 
-[![taobao](./ScreenShots/FN60G_taobao.png)](https://item.taobao.com/item.htm?id=758958605757)
+[![taobao](./ScreenShots/FN60G_taobao.jpg)](https://item.taobao.com/item.htm?id=758958605757)
 
 ## 配置清单
 
