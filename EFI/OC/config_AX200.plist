@@ -348,10 +348,24 @@
             <dict>
                 <key>PciRoot(0x0)/Pci(0x1,0x0)/Pci(0x0,0x0)/Pci(0x0,0x0)/Pci(0x0,0x0)</key>
                 <dict>
+                    <key>@0,name</key>
+                    <string>ATY,Henbury</string>
+                    <key>@1,name</key>
+                    <string>ATY,Henbury</string>
+                    <key>@2,name</key>
+                    <string>ATY,Henbury</string>
+                    <key>@3,name</key>
+                    <string>ATY,Henbury</string>
                     <key>AAPL,slot-name</key>
                     <string>Slot-1</string>
+                    <key>ATY,DeviceName</key>
+                    <string>W6600</string>
+                    <key>ATY,FamilyName</key>
+                    <string>Radeon Pro</string>
                     <key>model</key>
-                    <string>AMD Radeon RX 6600M</string>
+                    <string>AMD Radeon Pro W6600</string>
+                    <key>name</key>
+                    <string>ATY_GPU</string>
                 </dict>
             </dict>
             <key>Delete</key>
@@ -1019,7 +1033,7 @@
                     <key>revcpu</key>
                     <integer>1</integer>
                     <key>revcpuname</key>
-                    <string>Intel Core i5-13900T</string>
+                    <string>Intel Core i9-13900T</string>
                     <key>revpatch</key>
                     <string>sbvmm,pci,cpuname</string>
                 </dict>

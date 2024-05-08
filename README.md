@@ -1,12 +1,12 @@
 # FEVM-FN60G-Hackintosh
 
-[![taobao](./ScreenShots/FN60G_taobao.jpg)](https://item.taobao.com/item.htm?id=758958605757)
+[![taobao](./ScreenShots/FN60G_taobao.png)](https://item.taobao.com/item.htm?id=758958605757)
 
 ## 配置清单
 
 | 部件             | 型号                                                 | 是否支持                                                     |
 | :--------------- | :--------------------------------------------------- | :----------------------------------------------------------- |
-| CPU              | INTEL i9-13900T / i7-13700T / i5-13600T              | 支持                                                         |
+| CPU              | INTEL `i9-14900T` / `i9-13900T` / `i7-13700T`<br /> / `i5-13600T` / `i5-13400F` / `i5-12400F`              | 支持                                                         |
 | 内存             | 三星/英睿达/镁光 DDR5 5600MHz                        | 支持                                                         |
 | 核显             | ~~Intel® Iris® Xe Graphics eligible~~                | macOS不支持                                                  |
 | 独立显卡         | AMD Radeon™ RX 6600M                                 | 支持，`HDMI`x1 `4K@144Hz`<br />`DP` x2 `4K@144Hz`<br />`Type-C` x1 `4K@144Hz` |
@@ -47,7 +47,7 @@
 
 ![About_FN60G](./ScreenShots/About_FN60G.png)
 
-![R23_for_13900T](./ScreenShots/R23_for_13900T.jpg)
+![R23_for_13900T](./ScreenShots/R23_for_14900T.png)
 
 ![iTerm2](./ScreenShots/iTerm2.png)
 
