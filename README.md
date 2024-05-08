@@ -47,7 +47,9 @@
 
 ![About_FN60G](./ScreenShots/About_FN60G.png)
 
-![R23_for_13900T](./ScreenShots/R23_for_14900T.png)
+![FN60G_CPUs](./ScreenShots/FN60G_CPU_Info.png)
+
+![R23_for_13900T](./ScreenShots/R23_for_14900T.jpg)
 
 ![iTerm2](./ScreenShots/iTerm2.png)
 
