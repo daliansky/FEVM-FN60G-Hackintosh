@@ -7,7 +7,7 @@
 	<key>#Maker by</key>
 	<string>FEVM FN60G</string>
 	<key>#OpenCore Version</key>
-	<string>v1.0.1 Release</string>
+	<string>OpenCore MOD v1.0.1 Release</string>
 	<key>#Posted on</key>
 	<string>黑果小兵的部落阁 https://blog.daliansky.net</string>
 	<key>#Repository</key>
@@ -1280,14 +1280,14 @@
 			<key>AdviseFeatures</key>
 			<true/>
 			<key>MLB</key>
-			<string>C02153102GUJG36AD</string>
+			<string>C02148200GUJG36UE</string>
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>ProcessorType</key>
 			<integer>3841</integer>
 			<key>ROM</key>
 			<data>
-			ioQ4pHT4
+			TJBHzvY0
 			</data>
 			<key>SpoofVendor</key>
 			<false/>
@@ -1296,9 +1296,9 @@
 			<key>SystemProductName</key>
 			<string>iMacPro1,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02GX3YFHX87</string>
+			<string>C02GRTY1HX87</string>
 			<key>SystemUUID</key>
-			<string>F4362754-7639-41F5-9D8B-3D0C7B179DD8</string>
+			<string>758250DB-9253-48AA-8F2C-4C478BAE6C9B</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
