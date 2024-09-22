@@ -26,6 +26,11 @@
 
 ## 更新日志
 
+- 9-22-2024
+  - 更新 `OpenCore` `v1.0.2` 开发版
+  - 更新 `IOSkywalkFamily.kext` 到 `v1.2.0`
+  - 支持 `Sequoia` (博通无线网卡)
+  - 支持 `Sonoma` (Intel无线网卡)
 - 3-11-2024
 
   - 更新 `IOSkywalkFamily.kext` 到 `v1.1.0`
