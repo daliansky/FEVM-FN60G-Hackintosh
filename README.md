@@ -1,12 +1,12 @@
 # FEVM-FN60G-Hackintosh
 
-[![taobao](./ScreenShots/FN60G_taobao.png)](https://item.taobao.com/item.htm?id=758958605757)
+[![taobao](./ScreenShots/FN60G_WE_taobao.jpg)](https://item.taobao.com/item.htm?id=855399659202)
 
 ## 配置清单
 
 | 部件             | 型号                                                 | 是否支持                                                     |
 | :--------------- | :--------------------------------------------------- | :----------------------------------------------------------- |
-| CPU              | INTEL `i9-14900T` / `i9-13900T` / `i7-13700T`<br /> / `i5-13600T` / `i5-13400F` / `i5-12400F`              | 支持                                                         |
+| CPU              | INTEL `i9-14900T` / `i9-13900T` / `i7-14700T`<br /> / `i5-14500T` / `i5-13400F` / `i5-12400F`              | 支持                                                         |
 | 内存             | 三星/英睿达/镁光 DDR5 5600MHz                        | 支持                                                         |
 | 核显             | ~~Intel® Iris® Xe Graphics eligible~~                | macOS不支持                                                  |
 | 独立显卡         | AMD Radeon™ RX 6600M                                 | 支持，`HDMI`x1 `4K@144Hz`<br />`DP` x2 `4K@144Hz`<br />`Type-C` x1 `4K@144Hz` |
@@ -26,16 +26,23 @@
 
 ## 更新日志
 
+- 2-25-2025
+  
+  - 更新 `OpenCore` `v1.0.4` 开发版
+  - 重新定制了 USB 端口，支持所有的端口正常工作
+  
 - 9-22-2024
+
   - 更新 `OpenCore` `v1.0.2` 开发版
   - 更新 `IOSkywalkFamily.kext` 到 `v1.2.0`
   - 支持 `Sequoia` (博通无线网卡)
   - 支持 `Sonoma` (Intel无线网卡)
+
 - 3-11-2024
 
   - 更新 `IOSkywalkFamily.kext` 到 `v1.1.0`
   - `Sonoma` 如果想更新到 `14.4` 请务必先更新 `EFI` ，然后再安装 [OCLP](https://pan.daliansky.net/APPS/OCLP/OCLP.md)，重启后，再升级到 `14.4` 否则会出现 `WIFI` 无法启用的问题
-  
+
 - 3-1-2024
 
   - 更新`OpenCore Mod` 到 `v0.9.9`
