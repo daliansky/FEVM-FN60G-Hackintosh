@@ -1,6 +1,6 @@
 # FEVM-FN60G-Hackintosh
 
-[![taobao](./ScreenShots/FN60G_WE_taobao.jpg)](https://item.taobao.com/item.htm?id=855399659202)
+[![taobao](./ScreenShots/FN60G_WE_taobao.jpg)](https://item.taobao.com/item.htm?id=758958605757)
 
 ## 配置清单
 
@@ -27,6 +27,11 @@
 
 ## 更新日志
 
+- 7-30-2026
+  
+  - 更新 `OpenCore` `v1.0.8` MOD版
+  - 支持 `Tahoe` 安装使用
+  
 - 2-25-2025
   
   - 更新 `OpenCore` `v1.0.4` 开发版
